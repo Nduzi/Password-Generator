@@ -1,0 +1,67 @@
+body {
+    
+    margin: 0;
+    background-color: #1F2937;
+    position: fixed;
+    left:51px;
+    margin:auto;
+}
+h1{
+    font-family: 'Karla';
+    font-weight: 800;
+    font-size: 40px;
+    bottom:115px;
+}
+button{
+    background-color: #10B981;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    border-radius: 8px;
+    border:none;
+    padding: 15px 75px;
+    font-family:'Inter';
+    margin-bottom: 20px;
+    bottom:284px;
+    
+}
+#Password1, #Password2{
+    display:inline-block;
+    background-color: #273549;
+    color: #55F991;
+    font-family: 'Inter';
+    border-radius: 8px;
+    border:none;
+    padding: 15px 75px;
+    bottom:396px;
+}
+
+#wheader{
+    color: white;
+    font-weight: 900;
+    margin-bottom:0;
+
+}
+
+#gheader{
+    color: #4ADF86;
+    font-weight:900;
+    margin:0;
+
+}
+
+#statement
+{
+    color:#D5D4D8;
+    font-size: 20;
+    font-family:'Inter';
+    bottom:205px;
+
+    
+}
+
+hr{
+    color:#2F3E53;
+    bottom:361px;
+}
